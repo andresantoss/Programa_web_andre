@@ -1,0 +1,106 @@
+<html>
+
+<head>
+
+<title> Programação web André Santos </title>
+
+</head>
+
+
+<body background="https://i.pinimg.com/originals/65/b7/af/65b7af579ed86689a8457deb517e3805.gif">
+
+	Minha primeira página web<br/>
+
+<openingtag></closingtag>
+
+
+
+<hr/>
+<h2 align="center">Programação web André Santos</h2>
+<p align="center">Sou o André Santos, Estudante de ciências da computação no Uniceub.</p>
+<hr/>
+Colocando em
+<i>itálico e</i>
+<b>negrito</b>
+
+<h2 align="center"><img src="https://camo.githubusercontent.com/9be29021cfdb21b2cc257a3efcb269f64d42f5b6/687474703a2f2f32352e6d656469612e74756d626c722e636f6d2f63393961353739646233616530666331363462663463636131343838383564332f74756d626c725f6d6a6776386b45754d67317338376e37396f315f3430302e676966"/></h2>
+<h4 align="center">Imagem: Gif do Picachu</h4><br/>
+<hr/>
+<h3 align="center">Entradas, sem destino<br/></h3>
+Um input qualquer
+<input type="text"size="12"/>
+
+<p><i id="italicparagraph"></i></p>
+
+<p><b id="boldparagraph"></b></p>
+Um input do tipo texto
+<input type="text" name="TextField"/>
+se tivesse pra onde enviar, só aceitaria texto.
+<hr/>
+<h1 title="titulo">Como São os Títulos</h1>
+
+<h2 align="left">Título alinhado à esquerda</h2>
+
+<h2 align="center">Título Centrado</h2>
+
+<h2 align="right">Título Alinhado à direita</h2>
+
+
+
+h1, h2, h3, h4, h5 e h6
+<ol start="1">
+<li><h1>Cabeçalhos</h1></li>
+<li><h2>são</h2></li>
+<li><h3>ótimos</h3></li>
+<li><h4>para</h4></li>
+<li><h5>títulos</h5></li>
+<li><h6>e subtítulos</h6></li>
+</ol>
+
+
+<br/>
+Como coloca as linhas? é só botar "  < hr/ > "
+</p>
+
+<hr/>
+
+Use
+
+<hr/>
+
+Com
+
+<hr/>
+
+Cautela
+
+<hr/>
+<br/>
+Isso é lista 
+<h2>Objetivos</h2>
+<ol start="0">
+<li>Encontrar um trabalho</li>
+
+
+<li>Fazer muito dinheiro</li>
+
+<li>Mudar para outra cidade</li>
+
+
+<li>Continuar preenchendo</li>
+<li>A lista</li>
+
+<li>Só pra chegar</li>
+<li>no fim</li>
+<li>e não corta</li>
+<li>o gif </li>
+<li> no meio</li>
+</ol>
+
+
+</font></p>
+</body>
+
+<br/><br/><br/><br/><p align="center"><front size="6">Acesse Também <a href="http://www.educatux.com.br/"
+target="_blank" title="Educatux">&lt;Educatux&gt; &copy;</a><br/>
+</html>
