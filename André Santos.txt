@@ -110,6 +110,6 @@ Isso é lista
 
 </body>
 
-<br/><br/><br/><br/><p align="center"><front size="6">Acesse Também <a href="http://www.educatux.com.br/"
+<p align="center"><front size="6">Acesse Também <a href="http://www.educatux.com.br/"
 target="_blank" title="Educatux">&lt;Educatux&gt; &copy;</a><br/>
 </html>
