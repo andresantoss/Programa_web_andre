@@ -11,7 +11,7 @@
 
 	Minha primeira página web<br/>
 
-<openingtag></closingtag>
+<openingtag>tag</closingtag>
 
 
 
@@ -99,6 +99,15 @@ Isso é lista
 
 
 </font></p>
+
+<p>Exemplo de <b>Texto em Negrito</b><p>
+<p>Exemplo de <em>Texto enfatizado</em></p>
+<p>Exemplo de <strong>Texto Forte</strong></p>
+<p>Exemplo de <i>Textp em italico</i></p>
+<p>Exemplo de <sup>Texto Superior</sup></p>
+<p>Exemplo de <del>Texto taxado</del></p>
+<p>Exemplo de <code>Texto de código de comuputador</code></p>
+
 </body>
 
 <br/><br/><br/><br/><p align="center"><front size="6">Acesse Também <a href="http://www.educatux.com.br/"
